@@ -48,7 +48,9 @@ createPlatform(600, 200, 300, 15)
  createCollectable("steve", 750,150 );
     
     // TODO 4 - Create Cannonsd
-
+createCannon('bottom',600,1500,10); 
+createCannon('top',300,1100,10); 
+createCannon('bottom',400,1100,10); 
 
     
     
